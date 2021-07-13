@@ -22,7 +22,7 @@
 <ol>
   <li>點擊code複製本專案網址https://github.com/extrem9713/restaurantv3.git</li>
   <li>使用terminal複製本專案: git clone https://github.com/extrem9713/restaurantv3.git</li>
-  <li>使用terminal進入存放資料的資料夾: cd restaurantv2</li>
+  <li>使用terminal進入存放資料的資料夾: cd restaurantv3</li>
   <li>使用terminal安裝npm: npm install</li>
   <li>使用terminal加入種子資料: npm run seed</li>
   <li>使用terminal安裝nodemon: npm install nodemon</li>

@@ -31,7 +31,7 @@
 </ol>
 
 <h3>首頁</h3>
-<img src="/public/images/restaurant.png">
+<img src="/public/images/restaurantdemo.png">
 <br>
 <h3>使用工具</h3>
 <ul>
